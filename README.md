@@ -1,6 +1,9 @@
 # responsive-email-signature-html
 html email signature
 
+based on // baseado em
+https://github.com/fadeit/responsive-html-email-signature
+
 #eng
 
 This is a simple html.
